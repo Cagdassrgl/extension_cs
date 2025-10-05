@@ -10,6 +10,11 @@ dependencies:
   flutter:
     sdk: flutter
 
+  extension_cs:
+    path: ../
+    
+
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
