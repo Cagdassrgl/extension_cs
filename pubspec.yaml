@@ -1,11 +1,11 @@
 name: extension_cs
-description: "A new Flutter package project."
+description: "Comprehensive Flutter extensions package for Color, DateTime, Navigator, Size, Theme, and Widget manipulations with responsive design support."
 version: 0.0.1
-homepage:
+homepage: https://github.com/Cagdassrgl/extension_cs
 
 environment:
-  sdk: ^3.7.0
-  flutter: ">=1.17.0"
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
